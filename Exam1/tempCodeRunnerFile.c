@@ -1,0 +1,2 @@
+system("pause");
+	system("cls");
